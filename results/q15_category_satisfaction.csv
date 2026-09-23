@@ -1,0 +1,16 @@
+category,orders,avg_review,pct_1_2_star,avg_delivery_days
+office_furniture,1239,3.52,25.3,20.8
+bed_bath_table,9172,3.92,18.1,12.8
+unknown,1380,3.94,19.4,12.8
+furniture_decor,6212,3.96,17.9,12.8
+telephony,4062,3.99,15.5,12.9
+computers_accessories,6487,3.99,17.0,13.2
+electronics,2497,4.07,14.8,12.9
+watches_gifts,5450,4.07,14.8,12.6
+garden_tools,3423,4.08,14.9,13.6
+baby,2778,4.08,14.9,12.4
+construction_tools_construction,731,4.09,14.1,10.7
+housewares,5700,4.11,14.1,10.9
+auto,3784,4.12,13.8,12.1
+consoles_games,1002,4.14,12.2,13.5
+sports_leisure,7469,4.17,13.0,12.1

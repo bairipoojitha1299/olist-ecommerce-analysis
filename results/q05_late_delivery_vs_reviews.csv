@@ -1,0 +1,7 @@
+delivery_bucket,orders,avg_review,pct_1_2_star
+1. 10+ days early,61270,4.32,8.8
+2. 1-9 days early,26632,4.23,9.9
+3. On the promised day,1280,4.04,12.3
+4. 1-3 days late,1851,3.29,32.2
+5. 4-7 days late,1748,2.11,67.6
+6. 8+ days late,2779,1.7,79.2

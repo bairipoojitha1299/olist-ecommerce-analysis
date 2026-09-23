@@ -1,0 +1,7 @@
+# Raw data is large and comes from Kaggle - download it yourself (see README)
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.env

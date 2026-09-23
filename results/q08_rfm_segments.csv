@@ -1,0 +1,8 @@
+segment,customers,pct_customers,avg_recency_days,avg_orders,avg_spend,pct_revenue
+New big spenders,14410,15.5,92,1.0,302.0,28.3
+Lost big spenders,13788,14.8,391,1.0,307.12,27.5
+Needs attention,18026,19.4,220,1.0,150.71,17.7
+Lost / hibernating,22457,24.1,394,1.0,72.71,10.6
+New customers,21634,23.2,90,1.0,72.89,10.3
+Loyal - lapsing,1592,1.7,319,2.08,297.77,3.1
+Loyal - active,1197,1.3,89,2.15,322.88,2.5
